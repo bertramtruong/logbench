@@ -1,0 +1,7 @@
+{
+    "logs": 500,
+    "server": "127.0.0.1",
+    "protocol": "tcp",
+    "port": 3000,
+    "continuous": true
+}
