@@ -1,7 +1,27 @@
 {
+	/*
+	 * Number of random logs to generate.
+	 */
     "logs": 500,
+
+	/*
+	 * The hostname or IP address of the server to send the logs to.
+	 */
     "server": "127.0.0.1",
+
+	/*
+	 * The protocol to use.
+	 */
     "protocol": "tcp",
+
+	/*
+	 * The port number of the service.
+	 */
     "port": 3000,
+
+	/*
+	 * Whether or not to continuously stream the same sets of logs.
+	 * This is useful for stress testing.
+	 */
     "continuous": true
 }
