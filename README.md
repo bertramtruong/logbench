@@ -1,2 +1,2 @@
 # Log Bench
-A random log line generator written in PHP.
+A benchmarker for log parsers or SIEMs.

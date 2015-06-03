@@ -1,5 +1,5 @@
 .idea
-.iml
+*.iml
 /bootstrap/compiled.php
 /vendor
 composer.phar
